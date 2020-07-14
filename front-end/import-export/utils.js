@@ -1,6 +1,6 @@
 export function incr(number) {
-  number++;
+  ++number;
 }
 export function decr(number) {
-  number--;
+  --number;
 }
